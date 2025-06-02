@@ -1,3 +1,11 @@
+"""
+dai.4546b
+Copyright (c) 2025 Burak Demiröz
+
+This source code is licensed under the MIT License.
+See the LICENSE file for details.
+"""
+
 def oyun_baslangici():
     print("=== DAI.4546B ===")
     print("Yıl 2102. DAI şirketinde çalışan bir mürettebatsınız.")
